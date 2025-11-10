@@ -1,2 +1,2 @@
 # turtle-mlagent-for-unity
-A small Unity ML-Agents project with a Python backend. A tiny turtle learns to move toward a target using reinforcement learning.
+A set of small reinforcement learning agents built with Unity ML-Agents — each designed to solve a simple environment, such as finding a goal, navigating around walls, or jumping over obstacles.
